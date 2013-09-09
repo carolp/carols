@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378171429 source:e:\codeblocks\helloworld\helloworld.c
+
+1378172010 source:e:\codeblocks\helloworld\helloworld.cc
+	<iostream>
+
+1378553010 source:e:\codeblocks\experiment\str.cc
+	<iostream>
+	<string>
+	<vector>
+
